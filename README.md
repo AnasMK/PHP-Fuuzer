@@ -37,8 +37,8 @@
 
 <h2>Next releases features:(InshaaAllah)</h2>
 <ol>
-	<li>crawler: to get the website links automatically</li>
-	<li>FuzzDB: to improve the random input generator</li>
+<li>crawler: to get the website links automatically</li>
+	<li><a href="https://github.com/fuzzdb-project/fuzzdb">FuzzDB</a>: to improve the random input generator</li>
 </ol>
 
 
