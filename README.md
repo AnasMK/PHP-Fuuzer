@@ -40,10 +40,11 @@ These instructions will wake you step-by-step to install phpFuzzer on your proje
    $ curl -s http://getcomposer.org/installer | php
   ```
   4. Go to `/vendor/jonnyw/php-phantomjs` and install composer again:
-    ```
-    curl -s http://getcomposer.org/installer | php
-    php composer.phar install
-    ```
+  ```
+  curl -s http://getcomposer.org/installer | php
+    
+  php composer.phar install
+  ```
 5. install [PHPUnit](https://phpunit.de/), for installation documentation click [here](https://phpunit.de/manual/current/en/installation.html)
 
 
