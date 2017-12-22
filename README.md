@@ -34,11 +34,11 @@ These instructions will wake you step-by-step to install phpFuzzer on your proje
   }
   ```
   3. install the composer depedencies for your project:
-    ```
-    #bash
+  ```
+   #bash
 
-    $ php composer.phar install
-    ```
+   $ curl -s http://getcomposer.org/installer | php
+  ```
   4. Go to `/vendor/jonnyw/php-phantomjs` and install composer again:
     ```
     curl -s http://getcomposer.org/installer | php
